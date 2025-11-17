@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.olimpiada {
+    background: rgba(255,255,255,0.1);
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 15px;
+    max-width: 400px;
+}
+
+.timer {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffeb3b;
+    margin: 10px 0;
+}
